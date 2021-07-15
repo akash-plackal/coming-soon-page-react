@@ -1,0 +1,16 @@
+.hero {
+  display: flex;
+  width: 40vw;
+  top: 0;
+  right: 0;
+  position: absolute;
+  height: 100vh;
+}
+
+/* .hero-d {
+  width: 41rem;
+} */
+
+.hero-m {
+  display: none;
+}

@@ -7,9 +7,11 @@
   height: 100vh;
 }
 
-/* .hero-d {
-  width: 41rem;
-} */
+.hero-d {
+  position: absolute;
+  width: 40vw;
+  height: 100vh;
+}
 
 .hero-m {
   display: none;

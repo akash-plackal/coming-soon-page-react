@@ -1,0 +1,23 @@
+.email {
+  display: flex;
+  padding-left: 11rem;
+  /* border: 1px solid red; */
+}
+
+.email button {
+  margin-left: -30px;
+  outline: none;
+  padding: 0.7rem 2rem;
+  border-radius: 1.5rem;
+  border: none;
+  background-image: linear-gradient(135deg, #f8bfbf, #ee8c8c);
+  box-shadow: 0px 9px 20px hsla(0, 6%, 24%, 0.246);
+}
+.email input {
+  padding: 0.9rem 9rem 0.8rem 1rem;
+  border: 1px solid #5555558a;
+  outline: none;
+  border-radius: 1.5rem;
+  background: transparent;
+  font-family: "Josefin Sans", sans-serif;
+}

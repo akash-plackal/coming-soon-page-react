@@ -1,7 +1,6 @@
 import React from "react";
 import logo from "./logo.svg";
 import Email from "./Email";
-import Image from "./Image.js";
 import "./texts.css";
 
 export default function Texts() {
